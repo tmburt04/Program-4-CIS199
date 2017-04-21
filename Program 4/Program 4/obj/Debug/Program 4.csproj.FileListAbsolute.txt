@@ -1,0 +1,9 @@
+c:\users\tmburt04\documents\visual studio 2012\Projects\Program 4\Program 4\bin\Debug\Program 4.exe.config
+c:\users\tmburt04\documents\visual studio 2012\Projects\Program 4\Program 4\obj\Debug\Program 4.csprojResolveAssemblyReference.cache
+c:\users\tmburt04\documents\visual studio 2012\Projects\Program 4\Program 4\obj\Debug\Program_4.Program4.resources
+c:\users\tmburt04\documents\visual studio 2012\Projects\Program 4\Program 4\obj\Debug\Program_4.Properties.Resources.resources
+c:\users\tmburt04\documents\visual studio 2012\Projects\Program 4\Program 4\obj\Debug\Program 4.csproj.GenerateResource.Cache
+c:\users\tmburt04\documents\visual studio 2012\Projects\Program 4\Program 4\bin\Debug\Program 4.exe
+c:\users\tmburt04\documents\visual studio 2012\Projects\Program 4\Program 4\bin\Debug\Program 4.pdb
+c:\users\tmburt04\documents\visual studio 2012\Projects\Program 4\Program 4\obj\Debug\Program 4.exe
+c:\users\tmburt04\documents\visual studio 2012\Projects\Program 4\Program 4\obj\Debug\Program 4.pdb
